@@ -1,0 +1,21 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 128 Galewood Circle
+
+## Media
+
+### Title
+panorama_8A476CB9_8117_2A34_41DF_1FEB1F08CC28.label = Living Room
+panorama_8B750080_8116_FAD4_41D9_FFFE34CB9442.label = Dining Room
+panorama_8B75105A_8115_5A74_41D1_267EE64B8C22.label = 2nd Master Suite
+panorama_8B7534F8_8115_3A34_41C8_D736568AC5EA.label = Master's En Suite Bathroom
+panorama_8B7568AC_8115_2A2C_41DC_E7DE1703005B.label = Master's Walk-in Closet
+panorama_8B756BDF_8115_6E6C_41C9_B9247AFCEE70.label = 2nd Mater's En Suite Bathroom
+panorama_8B75D808_8117_29D4_41DA_7E5B2F214FB4.label = Balcony
+panorama_8B76D496_8116_DAFC_41C5_5DDE243FF9E6.label = Kitchen
+panorama_8B76EC9D_8116_EAEC_41C6_84A94A64DEB8.label = Master Suite
